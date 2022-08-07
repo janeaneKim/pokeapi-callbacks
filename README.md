@@ -1,6 +1,6 @@
 # pokeapi-callbacks
 
-Created for JS Callbacks Assignment for TTS. The code uses .then statements to attach callbacks to fetch 
+Created to practice callbacks for JS Callbacks Assignment for TTS. The code uses .then statements to attach callbacks to fetch 
 information from the PokeAPI.
 
 Basic functionality:
